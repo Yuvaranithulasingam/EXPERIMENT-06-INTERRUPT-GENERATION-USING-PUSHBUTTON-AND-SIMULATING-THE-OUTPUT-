@@ -177,8 +177,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 
-#Developed by: Yuvarani T
-#Register number:212222110057
+ Developed by: Yuvarani T
+ 
+ Register number:212222110057
 ## Output screen shots of proteus  :
 
 When pushbutton is off:
